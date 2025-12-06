@@ -652,6 +652,6 @@ This is a PoC for demonstration purposes.
 ---
 
 **Built with:** FastAPI • React • Tailwind CSS • pdfplumber • Pydantic -->
-
+   
 
 video link --> https://drive.google.com/drive/u/1/folders/10SuLVRT-kTB6punZ9vilkxs6wWzPGslP
