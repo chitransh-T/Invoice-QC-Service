@@ -15,7 +15,7 @@ This project is a **complete invoice quality control (QC) system** that automate
 - **Multiple Interfaces**: Provides CLI, REST API, and web UI for different use cases
 - **Batch Processing**: Supports processing multiple invoices simultaneously
 
-### Which Parts You Completed
+### Which Parts I Completed
 
 ✅ **Extraction Module** (`backend/extractor.py`)
 - PDF text extraction using pdfplumber
