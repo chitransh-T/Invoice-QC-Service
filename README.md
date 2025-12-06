@@ -5,7 +5,7 @@ A complete B2B invoice extraction and quality control system with FastAPI backen
 
 ## 📋 Overview
 
-### What You Built
+### Invoice QC Service
 
 This project is a **complete invoice quality control (QC) system** that automates the extraction and validation of invoice data from PDF documents. It's designed for B2B invoice processing workflows, with a focus on German invoice formats.
 
@@ -15,7 +15,7 @@ This project is a **complete invoice quality control (QC) system** that automate
 - **Multiple Interfaces**: Provides CLI, REST API, and web UI for different use cases
 - **Batch Processing**: Supports processing multiple invoices simultaneously
 
-### Which Parts You Completed
+### Which Parts I Completed
 
 ✅ **Extraction Module** (`backend/extractor.py`)
 - PDF text extraction using pdfplumber
@@ -652,3 +652,6 @@ This is a PoC for demonstration purposes.
 ---
 
 **Built with:** FastAPI • React • Tailwind CSS • pdfplumber • Pydantic -->
+
+
+video link --> https://drive.google.com/drive/u/1/folders/10SuLVRT-kTB6punZ9vilkxs6wWzPGslP
